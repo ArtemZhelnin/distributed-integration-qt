@@ -1,4 +1,4 @@
-# NetProj
+# Distributed Numerical Integration System
 
 Client-server system for distributed numerical integration of `1/ln(x)`.
 
