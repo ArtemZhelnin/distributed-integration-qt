@@ -64,7 +64,3 @@ The client sends CPU core count (Qt `idealThreadCount()`), receives its interval
 For `A=2`, `B=10`:
 
 `∫[2..10] 1/ln(x) dx ≈ 5.120435`
-
-## Repository hygiene
-
-Do not commit build artifacts (`build/`, `*.exe`, etc.). The provided `.gitignore` already ignores common generated files.
